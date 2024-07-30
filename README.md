@@ -21,10 +21,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reasnovynt&hide_border=true&background=000000&stroke=ffffff&ring=58a6ff&fire=ff0000)
 
-## 🏆 Contributions
-
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=reasnovynt&theme=github-dark&bg_color=000000&color=ffffff&line=58a6ff&point=ffffff)
-
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=reasnovynt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
