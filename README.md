@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=ffffff&text_color=000000&icon_color=6cc644&title_color=0366d6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=ffffff&text_color=000000&icon_color=6cc644&title_color=0366d6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
 
 ## 🌟 Highlights
 
