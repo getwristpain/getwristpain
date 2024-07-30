@@ -11,15 +11,15 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 ## 🧩 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
+![Most Used Languages](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reasnovynt&hide_border=true&background=000000&stroke=ffffff&ring=58a6ff&fire=ff0000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reasnovynt&hide_border=true&background=0d1117&stroke=ffffff&ring=58a6ff&fire=ff0000)
 
 ## 🏆 GitHub Trophies
 
