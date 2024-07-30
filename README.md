@@ -9,6 +9,12 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 - **Databases**: SQLite, MySQL
 - **Tools**: Docker, Vite, GitHub, NodeJS
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=ffffff&text_color=000000&icon_color=6cc644&title_color=0366d6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=ffffff&text_color=000000&icon_color=6cc644&title_color=0366d6)
+
 ## 🌟 Highlights
 
 - **Laravel Enthusiast**: Working with Laravel since 2019, including tools like Laravel Breeze, Livewire, and Volt.
