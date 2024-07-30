@@ -9,17 +9,13 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 - **Databases**: SQLite, MySQL
 - **Tools**: Docker, Vite, GitHub, NodeJS
 
-## 📊 GitHub Stats
+## 🧩 Most Used Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
+![Most Used Languages](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
 
 ## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
-
-## ⏱️ Coding Time
-
-![Wakatime](https://wakatime.com/badge/user/your_wakatime_user_id.svg)
 
 ## 📈 GitHub Streak
 
@@ -28,10 +24,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 ## 🏆 Contributions
 
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=reasnovynt&theme=github-dark&bg_color=000000&color=ffffff&line=58a6ff&point=ffffff)
-
-## 🧩 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
 
 ## 🏆 GitHub Trophies
 
