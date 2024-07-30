@@ -13,7 +13,29 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
 
+## 📊 Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
+
+## ⏱️ Coding Time
+
+![Wakatime](https://wakatime.com/badge/user/your_wakatime_user_id.svg)
+
+## 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reasnovynt&hide_border=true&background=000000&stroke=ffffff&ring=58a6ff&fire=ff0000)
+
+## 🏆 Contributions
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=reasnovynt&theme=github-dark&bg_color=000000&color=ffffff&line=58a6ff&point=ffffff)
+
+## 🧩 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=reasnovynt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🌟 Highlights
 
