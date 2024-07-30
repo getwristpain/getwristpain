@@ -25,6 +25,10 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=reasnovynt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
+## 📅 GitHub Activity
+
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=reasnovynt&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true)
+
 ## 🌟 Highlights
 
 - **Laravel Enthusiast**: Working with Laravel since 2019, including tools like Laravel Breeze, Livewire, and Volt.
