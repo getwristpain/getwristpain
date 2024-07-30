@@ -1,4 +1,4 @@
-# Hello, I'm [Reas Vyn] 👋
+# Hello, I'm Reas Vyn 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer with a focus on educational technology and Laravel-based applications. Here’s a bit about me:
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 ## 🌟 Highlights
 
-- **Laravel Enthusiast**: Working with Laravel since [Year], including tools like Laravel Breeze, Livewire, and Volt.
+- **Laravel Enthusiast**: Working with Laravel since 2019, including tools like Laravel Breeze, Livewire, and Volt.
 - **Educational Technology Focus**: Developing web applications tailored for educational environments.
 - **Freelance Web Developer**: Available for freelance projects in educational tech and web development.
 
