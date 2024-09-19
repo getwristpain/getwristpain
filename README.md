@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 ## 🔧 Technologies & Tools
 
 - **Languages**: PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, Livewire, Alpine.js
+- **Frameworks**: Laravel, Livewire, NextJS
 - **Databases**: SQLite, MySQL
 - **Tools**: Docker, Vite, GitHub, NodeJS
 
