@@ -36,7 +36,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 Here are some of my notable projects:
 
 - **[My Personal Website](https://reasnovynt.com)**
-- **[Simapekael - Internship Management System (Current Project)](https://github.com/reasnovynt/smpkl-dev)**
+- **[Gubukode](https://gubukode.com)**
+- **[Simapekael - Internship Management System (Current Project)](https://github.com/gubukode/internship-system)**
 
 Feel free to explore my repositories to see more of my work.
 
