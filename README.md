@@ -5,9 +5,10 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 ## 🔧 Technologies & Tools
 
 - **Languages**: PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, Livewire, NextJS
-- **Databases**: SQLite, MySQL
-- **Tools**: Docker, Vite, GitHub, NodeJS
+- **Frameworks**: Laravel, NextJS, ExpressJS
+- **Databases**: SQLite, PostgreSQL, MySQL
+- **Tools**: Docker, AWS, GitHub, NodeJS
+- **and more modern tech stacks...**
 
 ## 🧩 Most Used Languages
 
