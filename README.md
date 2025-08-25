@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=getwristpain&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=getwristpain&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Highlights
 
