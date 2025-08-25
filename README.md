@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 Here are some of my notable projects:
 
 - **[My Personal Website](https://getwristpain.github.io)**
-- **[Gubukode - Handcrafted Web Solutions](https://gubukode.com)**
-- **[Simapekael - Internship Management System (Current Project)](https://github.com/getwristpain/internship-system)**
+- **[Gubukode - Handcrafted Web Solutions (Server Inactive)](https://gubukode.com)**
+- **[Internara - Internship Management System (Still Develop)](https://github.com/getwristpain/internara)**
 
 Feel free to explore my repositories to see more of my work.
 
