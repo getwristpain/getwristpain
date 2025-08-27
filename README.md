@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=getwristpain&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=getwristpain&theme=synthwave&background=00000000)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
